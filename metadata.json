@@ -1,0 +1,5 @@
+{
+  "name": "SmartSite - AI Idea Hub",
+  "description": "An intelligent platform for submitting, discussing, and generating code for web ideas using Gemini AI. Supports multi-language interaction and admin management.",
+  "requestFramePermissions": []
+}
